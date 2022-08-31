@@ -13,5 +13,7 @@ int main() {
     cout << "The area is: " << area << endl;
 
     Triangle result = Triangle(10,10,10).scale(2);
+
+    result.getSide1();
     
 }
