@@ -14,6 +14,10 @@ int main() {
 
     Triangle result = Triangle(10,10,10).scale(2);
 
-    result.getSide1();
+    cout << result.getSide1() << endl;
+    result.setSide1(30);
+    cout << result.getSide1();
+
+
     
 }
