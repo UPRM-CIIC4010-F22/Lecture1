@@ -1,6 +1,6 @@
 #include <cmath>
 #include <iostream>
-#include "Triangle.h"
+#include "include/Triangle.h"
 
 using namespace std;
 
